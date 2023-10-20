@@ -4,7 +4,15 @@ Hi 👋 My name is Ketki Kule
 Full-Stack Developer | Mobile Dev Enthusiast
 --------------------------------------------
 
-I'm a software developer with a passion for crafting exceptional digital experiences. With over 5 years of hands-on expertise in Android development, I've had the privilege of delving into the intricacies of mobile app creation, from the depths of UI/UX design to the intricacies of scalable back-end systems. But learning never stops, and my journey has taken an exciting twist with the pursuit of a Master's degree. I've been immersing myself in the world of web development, cloud computing, and UI/UX design. This journey represents not just a commitment to continuous growth but a profound desire to explore new realms of technology. My ultimate goal is to blend the knowledge and experience from my Android background with the skills I'm nurturing in web development, cloud computing, and UI/UX. I'm on a mission to become a versatile full-stack developer, capable of turning concepts into polished, end-to-end solutions. I'm thrilled to be on this learning journey, and I invite you to explore my repositories, where you'll find a mix of projects reflecting my progress and passion. Whether it's coding, design, or making systems work seamlessly in the cloud, I'm committed to delivering quality, innovation, and delightful user experiences. Let's connect, collaborate, and create a brighter tech future together! Feel free to personalize this description further to align with your unique experiences and aspirations.
+I'm a software developer with a passion for crafting exceptional digital experiences. With over 5 years of hands-on expertise in Android development, I've had the privilege of delving into the intricacies of mobile app creation, from the depths of UI/UX design to the intricacies of scalable back-end systems. 💻 🤓
+
+But learning never stops, and my journey has taken an exciting twist with the pursuit of a Master's degree 👩‍🎓 I've been immersing myself in the world of web development, cloud computing, and UI/UX design. This journey represents not just a commitment to continuous growth but a profound desire to explore new realms of technology. 🚀
+
+My ultimate goal is to blend the knowledge and experience from my Android background with the skills I'm nurturing in web development, cloud computing, and UI/UX. I'm on a mission to become a versatile full-stack developer, capable of turning concepts into polished, end-to-end solutions. 
+
+I'm thrilled to be on this learning journey, and I invite you to explore my repositories, where you'll find a mix of projects reflecting my progress and passion. Whether it's coding, design, or making systems work seamlessly in the cloud, I'm committed to delivering quality, innovation, and delightful user experiences. 
+
+Let's connect, collaborate, and create a brighter tech future together! 📧
 
 * 🌍  I'm based in MA,USA
 * ✉️  You can contact me at [kuleketki@gmail.com](mailto:kuleketki@gmail.com)
