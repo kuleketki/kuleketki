@@ -1,7 +1,7 @@
 Hi 👋 My name is Ketki Kule
 ===========================
 
-Full-Stack Developer | Mobile Dev Enthusiast
+Android Developer | Mobile Dev Enthusiast
 --------------------------------------------
 
 I'm a software developer with a passion for crafting exceptional digital experiences. With over 6 years of hands-on expertise in Android development, I've had the privilege of delving into the intricacies of mobile app creation, from the depths of UI/UX design to the intricacies of scalable back-end systems. 💻 🤓
